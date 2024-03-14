@@ -3,7 +3,8 @@
  * get current value, and reset the counter.
  */
 public class Counter {
-    public int value = 0;
+    private
+    int value = 0;
 
     /** Initializes the counter with 0 as an initial value. */
     public Counter() {
